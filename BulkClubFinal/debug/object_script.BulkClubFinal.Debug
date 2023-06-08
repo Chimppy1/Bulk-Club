@@ -1,0 +1,14 @@
+debug/displayBoard.o
+debug/item.o
+debug/loginwindow.o
+debug/main.o
+debug/mainwindow.o
+debug/member.o
+debug/memberList.o
+debug/purchase.o
+debug/purchaseList.o
+debug/moc_inventoryTable.o
+debug/moc_loginwindow.o
+debug/moc_mainwindow.o
+debug/moc_mytable.o
+debug/moc_mytable2.o

@@ -1,0 +1,14 @@
+release/displayBoard.o
+release/item.o
+release/loginwindow.o
+release/main.o
+release/mainwindow.o
+release/member.o
+release/memberList.o
+release/purchase.o
+release/purchaseList.o
+release/moc_inventoryTable.o
+release/moc_loginwindow.o
+release/moc_mainwindow.o
+release/moc_mytable.o
+release/moc_mytable2.o
